@@ -1,0 +1,285 @@
+[
+  {
+    "name": "Academy for Little Children",
+    "url": "https://a4lc.net/",
+    "slug": "academy-for-little-children",
+    "logoSrc": "/sponsors/academy-for-little-children.svg",
+    "logoSourceUrl": "https://a4lc.net/wp-content/uploads/2023/07/logo.svg",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Academy for Little Children logo"
+  },
+  {
+    "name": "AJ's Restaurant",
+    "url": "https://www.facebook.com/Ajswestwarwick/",
+    "slug": "ajs-restaurant",
+    "logoSrc": null,
+    "logoSourceUrl": null,
+    "strategy": "fallback",
+    "error": "Failed to fetch HTML (400)",
+    "logoAlt": "AJ's Restaurant logo"
+  },
+  {
+    "name": "Bill's Place Pizza",
+    "url": "https://www.billsplaceri.com/",
+    "slug": "bills-place-pizza",
+    "logoSrc": "/sponsors/bills-place-pizza.png",
+    "logoSourceUrl": "https://static.wixstatic.com/media/b56a47_b8c5d0dd61a14942adc4a1bccad950ee%7Emv2.png/v1/fill/w_180%2Ch_180%2Clg_1%2Cusm_0.66_1.00_0.01/b56a47_b8c5d0dd61a14942adc4a1bccad950ee%7Emv2.png",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Bill's Place Pizza logo"
+  },
+  {
+    "name": "Bradford Soap",
+    "url": "https://www.bradfordsoap.com/",
+    "slug": "bradford-soap",
+    "logoSrc": "/sponsors/bradford-soap.png",
+    "logoSourceUrl": "https://www.bradfordsoap.com/hubfs/favicons.png",
+    "strategy": "icon",
+    "logoAlt": "Bradford Soap logo"
+  },
+  {
+    "name": "Bro'ss Pizza",
+    "url": "https://brosspizza.com/",
+    "slug": "bross-pizza",
+    "logoSrc": "/sponsors/bross-pizza.jpg",
+    "logoSourceUrl": "https://brosspizza.com/wp-content/uploads/2025/03/WhatsApp-Image-2025-02-21-at-20.40.20-1-1024x662.jpeg",
+    "strategy": "og:image",
+    "logoAlt": "Bro'ss Pizza logo"
+  },
+  {
+    "name": "Builders Surplus",
+    "url": "https://builders-surplus.com/",
+    "slug": "builders-surplus",
+    "logoSrc": "/sponsors/builders-surplus.jpg",
+    "logoSourceUrl": "https://builders-surplus.com/wp-content/uploads/2016/06/cropped-mobile-max-1-180x180.jpg",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Builders Surplus logo"
+  },
+  {
+    "name": "Caliente",
+    "url": "https://mexicangrillcaliente.com/",
+    "slug": "caliente",
+    "logoSrc": "/sponsors/caliente.png",
+    "logoSourceUrl": "https://static.spotapps.co/website_images/ab_websites/105174_website/logo.png",
+    "strategy": "logo-image",
+    "logoAlt": "Caliente logo"
+  },
+  {
+    "name": "Carpenter Jenks",
+    "url": "https://www.carpenterjenks.com/",
+    "slug": "carpenter-jenks",
+    "logoSrc": "/sponsors/carpenter-jenks.png",
+    "logoSourceUrl": "https://s3.amazonaws.com/fh-content/release/Content/Media/Carpenter-JenksFuneralHome/favicon-16x16.png",
+    "strategy": "icon",
+    "logoAlt": "Carpenter Jenks logo"
+  },
+  {
+    "name": "Centreville Bank",
+    "url": "https://www.centrevillebank.com/",
+    "slug": "centreville-bank",
+    "logoSrc": "/sponsors/centreville-bank.png",
+    "logoSourceUrl": "https://www.centrevillebank.com/CentrevilleBank/media/Images/open-graph.png?ext=.png",
+    "strategy": "og:image",
+    "logoAlt": "Centreville Bank logo"
+  },
+  {
+    "name": "Club Frontenac",
+    "url": "https://www.copycatsri.com/",
+    "slug": "club-frontenac",
+    "logoSrc": "/sponsors/club-frontenac.png",
+    "logoSourceUrl": "http://www.copycatsri.com/uploads/7/5/6/9/75694429/cclogo_orig.gif",
+    "strategy": "og:image",
+    "logoAlt": "Club Frontenac logo"
+  },
+  {
+    "name": "Cowesett Pizza",
+    "url": "https://www.cowesettpizza.com/",
+    "slug": "cowesett-pizza",
+    "logoSrc": "/sponsors/cowesett-pizza.png",
+    "logoSourceUrl": "https://static.wixstatic.com/media/b271bf_07683652caa84ee98d3248ab7fdeb4ed%7Emv2.png/v1/fit/w_2500,h_1330,al_c/b271bf_07683652caa84ee98d3248ab7fdeb4ed%7Emv2.png",
+    "strategy": "og:image",
+    "logoAlt": "Cowesett Pizza logo"
+  },
+  {
+    "name": "Dunkin Donuts",
+    "url": "https://www.dunkindonuts.com/en",
+    "slug": "dunkin-donuts",
+    "logoSrc": "/sponsors/dunkin-donuts.png",
+    "logoSourceUrl": "https://www.dunkindonuts.com/etc/designs/dd/images/favicon/favicon-dnknreward.png",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Dunkin Donuts logo"
+  },
+  {
+    "name": "Elks Lodge #1697",
+    "url": "https://www.elks.org/lodges/lodgefacilities.cfm?lodgenumber=1697",
+    "slug": "elks-lodge-1697",
+    "logoSrc": "/sponsors/elks-lodge-1697.ico",
+    "logoSourceUrl": "https://www.elks.org/favicon.ico",
+    "strategy": "icon",
+    "logoAlt": "Elks Lodge #1697 logo"
+  },
+  {
+    "name": "Fleet Master",
+    "url": "https://www.fleetmasterri.com/",
+    "slug": "fleet-master",
+    "logoSrc": "/sponsors/fleet-master.webp",
+    "logoSourceUrl": "https://cdn.prod.website-files.com/64813d9cc835258f0558a9f1/648652a90c09ab6f4e783fbf_fleet%20master%20logo.webp",
+    "strategy": "logo-image",
+    "logoAlt": "Fleet Master logo"
+  },
+  {
+    "name": "Gel's Kitchen",
+    "url": "https://gelskitchens.com/",
+    "slug": "gels-kitchen",
+    "logoSrc": "/sponsors/gels-kitchen.png",
+    "logoSourceUrl": "https://gelskitchens.com/wp-content/uploads/2023/02/gelskitchen1-Edited.png",
+    "strategy": "og:image",
+    "logoAlt": "Gel's Kitchen logo"
+  },
+  {
+    "name": "Hazel Eye Center",
+    "url": "https://hazeleyecenter.com/",
+    "slug": "hazel-eye-center",
+    "logoSrc": "/sponsors/hazel-eye-center.svg",
+    "logoSourceUrl": "https://vs5280-hazel.vision.getflexsite.com/wp-content/uploads/sites/48/2025/04/favicon.svg",
+    "strategy": "icon",
+    "logoAlt": "Hazel Eye Center logo"
+  },
+  {
+    "name": "Jennings Car Care",
+    "url": "https://www.jenningscarcare.com/",
+    "slug": "jennings-car-care",
+    "logoSrc": "/sponsors/jennings-car-care.ico",
+    "logoSourceUrl": "https://www.jenningscarcare.com/Portals/24/favicon.ico",
+    "strategy": "icon",
+    "logoAlt": "Jennings Car Care logo"
+  },
+  {
+    "name": "Lil' Rhody Storage",
+    "url": "https://www.lilrhodystorage.com/",
+    "slug": "lil-rhody-storage",
+    "logoSrc": "/sponsors/lil-rhody-storage.svg",
+    "logoSourceUrl": "https://dr2r4w0s7b8qm.cloudfront.net/image_manager_app/Desktop_-_Lil_Rhody_Storage-20250915-180050.svg",
+    "strategy": "og:image",
+    "logoAlt": "Lil' Rhody Storage logo"
+  },
+  {
+    "name": "Lima's Barber Shop",
+    "url": "https://www.facebook.com/p/Limas-Barber-Shop-100054602732628/",
+    "slug": "limas-barber-shop",
+    "logoSrc": null,
+    "logoSourceUrl": null,
+    "strategy": "fallback",
+    "error": "Failed to fetch HTML (400)",
+    "logoAlt": "Lima's Barber Shop logo"
+  },
+  {
+    "name": "Natco Home Group",
+    "url": "https://www.natcohome.com/",
+    "slug": "natco-home-group",
+    "logoSrc": null,
+    "logoSourceUrl": null,
+    "strategy": "fallback",
+    "logoAlt": "Natco Home Group logo"
+  },
+  {
+    "name": "New England Aquatics",
+    "url": "http://newenglandaquatics.net/",
+    "slug": "new-england-aquatics",
+    "logoSrc": "/sponsors/new-england-aquatics.svg",
+    "logoSourceUrl": "https://newenglandaquatics.net/wp-content/uploads/2021/08/newenglandaquatics_favicon.svg",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "New England Aquatics logo"
+  },
+  {
+    "name": "Ocean State Credit Union",
+    "url": "https://www.oceanstatecu.org/",
+    "slug": "ocean-state-credit-union",
+    "logoSrc": "/sponsors/ocean-state-credit-union.png",
+    "logoSourceUrl": "https://www.oceanstatecu.org/wp-content/themes/ncr-child-theme/images/img-logo-icon.png",
+    "strategy": "logo-image",
+    "logoAlt": "Ocean State Credit Union logo"
+  },
+  {
+    "name": "Ramos Construction",
+    "url": "https://ramosconstructionmasonry.com/",
+    "slug": "ramos-construction",
+    "logoSrc": "/sponsors/ramos-construction.png",
+    "logoSourceUrl": "https://ramosconstructionmasonry.com/wp-content/uploads/2020/01/cropped-masonry-180x180.png",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Ramos Construction logo"
+  },
+  {
+    "name": "Regan Heating and Air Conditioning",
+    "url": "https://www.reganhvac.com/pages/Home.cfm",
+    "slug": "regan-heating-and-air-conditioning",
+    "logoSrc": "/sponsors/regan-heating-and-air-conditioning.png",
+    "logoSourceUrl": "https://www.reganhvac.com/favicon.png",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Regan Heating and Air Conditioning logo"
+  },
+  {
+    "name": "Riccotti's Subs",
+    "url": "https://riccottis.com/",
+    "slug": "riccottis-subs",
+    "logoSrc": "/sponsors/riccottis-subs.png",
+    "logoSourceUrl": "data:image/png;base64,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",
+    "strategy": "icon",
+    "logoAlt": "Riccotti's Subs logo"
+  },
+  {
+    "name": "Richard's Pub",
+    "url": "https://richardspubri.com/",
+    "slug": "richards-pub",
+    "logoSrc": "/sponsors/richards-pub.png",
+    "logoSourceUrl": "https://richardspubri.com/wp-content/uploads/2022/08/cropped-cropped-rp-icon-180x180.png",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "Richard's Pub logo"
+  },
+  {
+    "name": "Rider Tire and Customs",
+    "url": "https://www.facebook.com/Rhyda2017/",
+    "slug": "rider-tire-and-customs",
+    "logoSrc": null,
+    "logoSourceUrl": null,
+    "strategy": "fallback",
+    "error": "Failed to fetch HTML (400)",
+    "logoAlt": "Rider Tire and Customs logo"
+  },
+  {
+    "name": "Robert's Musical Instruments",
+    "url": "https://www.robertsmusicri.com/",
+    "slug": "roberts-musical-instruments",
+    "logoSrc": "/sponsors/roberts-musical-instruments.ico",
+    "logoSourceUrl": "https://www.robertsmusicri.com/images/favicon/favicon.ico",
+    "strategy": "icon",
+    "logoAlt": "Robert's Musical Instruments logo"
+  },
+  {
+    "name": "Twisted Pizza of West Warwick",
+    "url": "https://www.gettwistedpizza.com/",
+    "slug": "twisted-pizza-of-west-warwick",
+    "logoSrc": "/sponsors/twisted-pizza-of-west-warwick.png",
+    "logoSourceUrl": "https://static.wixstatic.com/media/563b45_8cc2a418dcd6426db7dd0f2508aacca9%7Emv2.png/v1/fit/w_2500,h_1330,al_c/563b45_8cc2a418dcd6426db7dd0f2508aacca9%7Emv2.png",
+    "strategy": "og:image",
+    "logoAlt": "Twisted Pizza of West Warwick logo"
+  },
+  {
+    "name": "West Valley Soup & Kitchen",
+    "url": "https://www.westvalleysoupandsauce.com/",
+    "slug": "west-valley-soup-kitchen",
+    "logoSrc": "/sponsors/west-valley-soup-kitchen.png",
+    "logoSourceUrl": "https://www.westvalleysoupandsauce.com/wp-content/uploads/2024/01/cropped-wvss-site-icon-180x180.png",
+    "strategy": "apple-touch-icon",
+    "logoAlt": "West Valley Soup & Kitchen logo"
+  },
+  {
+    "name": "West Warwick Fire Fighters IAFF Local 1104",
+    "url": "https://www.westwarwickfirefighters.org/",
+    "slug": "west-warwick-fire-fighters-iaff-local-1104",
+    "logoSrc": null,
+    "logoSourceUrl": null,
+    "strategy": "fallback",
+    "error": "fetch failed",
+    "logoAlt": "West Warwick Fire Fighters IAFF Local 1104 logo"
+  }
+]
